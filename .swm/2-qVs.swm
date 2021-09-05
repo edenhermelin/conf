@@ -1,0 +1,16 @@
+{
+    "id": "2-qVs",
+    "name": "blabla",
+    "content": [
+        {
+            "type": "text",
+            "text": "asdfgh"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.5.8-0",
+        "file_blobs": {}
+    }
+}
