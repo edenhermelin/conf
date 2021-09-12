@@ -1,4 +1,4 @@
-# conf
+# conf1234
 
 > Simple config handling for your app or module
 
